@@ -25,3 +25,13 @@
 1. repository에서 입력
 2. Service 선언 후 serviceimplement 에서 재정의
 3. controller에서 경로 지정 및 조건문 작성
+
+
+
+
+다시한번 순서 정리
+
+1. 모델 만들기
+2. repository 만들기
+3. service , serviceimpl 만들기
+4. controller 만들어서 연결시키기
